@@ -1,6 +1,6 @@
  // Using While loop
  // WAP a program to accept the number till the user want
-
+//
 #include<stdio.h>
 
 int main()
